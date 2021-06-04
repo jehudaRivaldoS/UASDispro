@@ -99,7 +99,7 @@
 		</div>
 		<div class="col-md-4">
 			<div>
-                            <div>
+                            
                         <form>
                                                 <p>Form Cek in Sewa Rumah</p>
                                                 <p>Nama : <input type="text"></p>
@@ -110,11 +110,14 @@
                                                 <button type="Submit">Pesan</button>
                                             </form>
                     </div>
-                        </div>
+                    
 			
 		</div>
 	</div>
-    
+    <div>
+                        <P> </P>
+                        <br>
+                        </div>
 </div>
     <div class="footer text-center">
 	<div class="container">
